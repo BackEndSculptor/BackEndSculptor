@@ -16,7 +16,7 @@
 <a href="#">
   <img title="BackEndSculptor" align="left" alt="Skype" width="24px" src="https://github.com/BackEndSculptor/icons/blob/master/skype.png" />
 </a>
-<a href="mailto:BackEndSculptor@gmail.com">
+<a href="mailto:nedelevich@gmail.com">
   <img align="left" alt="Mail" width="24px" src="https://github.com/BackEndSculptor/icons/blob/master/gmail.png" />
 </a>
 
